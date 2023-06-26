@@ -1,0 +1,12 @@
+C:\Users\Er. Aadil Ji\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\pub\FileUploader.exe
+C:\Users\Er. Aadil Ji\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\pub\wwwroot\favicon.ico
+C:\Users\Er. Aadil Ji\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\pub\appsettings.Development.json
+C:\Users\Er. Aadil Ji\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\pub\appsettings.json
+C:\Users\Er. Aadil Ji\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\pub\FileUploader.dll
+C:\Users\Er. Aadil Ji\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\pub\FileUploader.deps.json
+C:\Users\Er. Aadil Ji\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\pub\FileUploader.runtimeconfig.json
+C:\Users\Er. Aadil Ji\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\pub\FileUploader.pdb
+C:\Users\Er. Aadil Ji\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\pub\Newtonsoft.Json.dll
+C:\Users\Er. Aadil Ji\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\pub\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Er. Aadil Ji\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\pub\FileUploader.Views.dll
+C:\Users\Er. Aadil Ji\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\pub\FileUploader.Views.pdb
