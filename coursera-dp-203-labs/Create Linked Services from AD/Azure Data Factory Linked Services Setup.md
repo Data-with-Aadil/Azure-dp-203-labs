@@ -97,10 +97,10 @@
    Set-AzDataFactoryV2LinkedService -DataFactoryName $dataFactoryName `
        -ResourceGroupName $resourceGroupName -Name "AzureSqlLinkedService" `
        -DefinitionFile ".\azuresql.json"
-   ```
-
+   
+  ```
   
-
+ ```powershell
  $dataFactoryName = " <data factory name> "
    
    Set-AzDataFactoryV2LinkedService -DataFactoryName $dataFactoryName `
