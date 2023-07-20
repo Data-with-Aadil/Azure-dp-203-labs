@@ -10,7 +10,7 @@
 
 1. Run the following commands in PowerShell:
 ```powershell
-az show
+az account show
 az login
 ```
 
